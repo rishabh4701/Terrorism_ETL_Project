@@ -48,7 +48,7 @@ You'll need Python installed.
     ```
 2.  Go into the project folder:
     ```sh
-    cd Your-Repository-Name
+    cd Terrorism_ETL_Project
     ```
 3.  Install all the libraries it needs:
     ```sh
