@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rishabh4701-terrorism-etl-project-app-4lfdz3.streamlit.app/)
 
-## 📖 What This Is
+## What This Is
 
 Hey there! This is my first major data analysis project. I wanted to take a large, messy, real-world dataset and see if I could handle the entire process from start to finish: cleaning the data, finding interesting patterns, and building something cool to show my findings.
 
@@ -21,7 +21,7 @@ I chose the Global Terrorism Database (GTD), which has over 180,000 records of t
 
 ---
 
-## 🛠️ Tech I Used
+## Tech I Used
 
 * Python
 * Pandas
@@ -32,7 +32,7 @@ I chose the Global Terrorism Database (GTD), which has over 180,000 records of t
 
 ---
 
-## 🚀 Want to Run It Yourself?
+## Want to Run It Yourself?
 
 You can run the dashboard on your own machine. Here's how:
 
