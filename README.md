@@ -1,6 +1,6 @@
 # Analyzing Global Terrorism
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rishabh4701-terrorism-etl-project-app-4lfdz3.streamlit.app/)
 
 ## 📖 What This Is
 
