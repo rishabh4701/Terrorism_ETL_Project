@@ -1,0 +1,1 @@
+This project performs an end-to-end data analysis of the Global Terrorism Database (GTD). The process includes extracting the raw data, performing extensive cleaning and transformation (ETL), conducting exploratory data analysis (EDA) to find trends, and building an interactive dashboard to visualize the findings.
